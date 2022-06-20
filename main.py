@@ -37,6 +37,7 @@ def get_pc_name():
 
 if __name__ == '__main__':
     print("PHẦN MỀM KIỂM TRA TÌNH TRẠNG WEB SITE")
+    print('By Hoa-Dev')
     pc_name = get_pc_name()
 
     while True:
