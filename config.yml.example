@@ -1,0 +1,6 @@
+telegram:
+  TOKEN: xxxx
+  CHAT_ID: 123456
+website:
+  CHECK_EVERY_SECS: 3600
+  URL: https://google.com
